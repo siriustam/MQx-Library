@@ -13,7 +13,7 @@ The following involves the basic connection of MQx and Arduino or ESP board and 
 
 1. Include the header file to the source code.
 ```cpp
-#include "MQ2.h"
+#include "MQ2.h" // or "MQ7.h"
 ```
 
 2. Initialize the sensor object
